@@ -4,6 +4,8 @@ Completed by 12/24/20
 
    ![KringleCon3](images/KringleCon3.jpg)
 
+**Game Link [https://holidayhackchallenge.com/2020/](https://holidayhackchallenge.com/2020/)**
+
 Authors:
 --------
 **Father and son team: Matt (son) and Jim Kirn (father)**
